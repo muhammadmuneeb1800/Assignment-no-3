@@ -1,0 +1,82 @@
+#fluid{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    text-decoration-line: none;
+}
+
+#now{
+    border: none;
+    color: white;
+    background-color: orangered;
+    padding: 1% 2%;
+}
+
+#us{
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 1% 2%;
+}
+
+
+#card{
+    border: 2px solid black;
+    width: 80%;
+    height: 80%;
+}
+
+
+#get{
+    border: none;
+    color: white;
+    background-color: orangered;
+    padding: 5% 10px;
+    
+}
+
+
+#first{
+    margin-bottom:-20px;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 490px) {
+    #first{
+        font-size:25px;
+    }
+}
+
+
+@media screen and (min-width:490px) and (max-width: 900px) {
+    #first{
+        font-size:40px;
+    }
+}
+
+
+@media screen and (min-width: 900px) and (max-width: 1280px) {
+    #first{
+        font-size:50px;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    
+}
+
+
+
+  
