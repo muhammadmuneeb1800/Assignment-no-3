@@ -17,14 +17,14 @@ ul{
     border: none;
     color: white;
     background-color: orangered;
-    padding: 1% 2%;
+    padding: 10px 20px;
 }
 
 #us{
     border: none;
     color: white;
     background-color: black;
-    padding: 1% 2%;
+    padding: 10px 20px;
 }
 
 
@@ -45,9 +45,14 @@ ul{
 
 
 #first{
-    margin-bottom:-20px;
+    line-height: 130%;
     font-size: 65px;
     font-weight: bold;
+}
+
+#se{
+    margin-right: 60px;
+    margin-bottom:20px;
 }
 
 
